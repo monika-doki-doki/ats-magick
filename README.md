@@ -1,4 +1,4 @@
-# ATS MAGICK
+# ATS DOKI DOKI MAGICK
 
 ats-magick is a transformation plug-in which allows to run any ImageMagick's convert command while processing images from the origin.
 
